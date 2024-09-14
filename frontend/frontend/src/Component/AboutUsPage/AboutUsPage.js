@@ -67,7 +67,7 @@ function AboutUsPage() {
               ability to think critically make me an asset to any team. I'm
               passionate about using technology to make the world a better
               place, and am excited to continue learning new skills that can
-              help me do that.
+              help me do that easy way .
             </p> */}
           </div>
         </div>
